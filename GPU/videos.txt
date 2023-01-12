@@ -3,19 +3,25 @@ https://www.youtube.com/watch?v=7TimDQC_SBQ
 
 
 https://www.youtube.com/watch?v=VFexAjUoTZI&t=1412s
+HOTCHIps talks
 
 https://www.youtube.com/watch?v=3LLzHKeL2hs
+GPU TENSOR CORE GENERATION/LLVM SOCIAL
 
 https://www.youtube.com/watch?v=M6hl2si20NE&t=1s
-
-https://www.youtube.com/watch?v=3LLzHKeL2hs
+Julia
 
 https://www.youtube.com/watch?v=XEfkPEUw-08
+ODM: TALK : High Performance GPU Tensor CoreCode Generation for Matmul Using MLIR
 
 https://www.youtube.com/watch?v=-IWewUVv8BA
+Tobiass G, OpenEarth
 
 https://www.youtube.com/watch?v=0bxyZDGs-aA
+Mehdi keynote - HPC
 
 https://www.youtube.com/watch?v=xrMJis3Rak0&t=8s
+oordinate Transformations in AMD’s rocMLIR
 
 https://www.youtube.com/watch?v=yOk63LWbkqk&t=1712s
+MLIR-based IR for Accelerator Design with Decoupled Customizations
